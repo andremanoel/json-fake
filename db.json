@@ -1,23 +1,24 @@
 {
-  "quem-e-quem": [
-    {
-      "teste": 1
-    }
-  ],
-  "personograma": [ {
-    data: [
-            ['Shareholders', 'Board'],
-            ['Board', 'CEO'],
-            ['CEO', 'CTO'],
-            ['CEO', 'CPO'],
-            ['CEO', 'CSO'],
-            ['CEO', 'CMO'],
-            ['CEO', 'HR'],
-            ['CTO', 'Product'],
-            ['CTO', 'Web'],
-            ['CSO', 'Sales'],
-            ['CMO', 'Market']
-        ],
-    }
-  ]
-}
+    "quem-e-quem": [
+      {
+        "teste": 1
+      }
+    ],
+    "personograma": [ {
+      "data": [
+              ["Shareholders", "Board"],
+              ["Board", "CEO"],
+              ["CEO", "CTO"],
+              ["CEO", "CPO"],
+              ["CEO", "CSO"],
+              ["CEO", "CMO"],
+              ["CEO", "HR"],
+              ["CTO", "Product"],
+              ["CTO", "Web"],
+              ["CSO", "Sales"],
+              ["CMO", "Market"]
+          ]
+      }
+    ]
+  }
+  
