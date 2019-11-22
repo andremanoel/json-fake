@@ -1,7 +1,31 @@
 {
     "quem-e-quem": [
       {
-        "teste": 1
+        "nomeArea" : "Administração Central",
+        "pessoas" : [
+            {
+                "foto": "https://www.codevasf.gov.br/acesso-a-informacao/institucional/quem-e-quem/avatar372456324.png",
+                "cargo": "Chefe de gabinete",
+                "nome" : "",
+                "telefone": "(61) 2028-4788", 
+                "email": ""
+
+            },
+            {
+                "foto": "https://www.codevasf.gov.br/acesso-a-informacao/institucional/quem-e-quem/avatar372456324.png",
+                "cargo": "Chefe da Auditoria Interna",
+                "nome" : "André Marcelo Gusmão Tavares de Oliveira",
+                "telefone": "(61) 2028-4617",
+                "email": "andre.gusmao@codevasf.gov.br",
+            },
+            {
+                "foto": "https://www.codevasf.gov.br/acesso-a-informacao/institucional/quem-e-quem/avatar372456324.png",
+                "cargo": "Chefe da Ouvidoria",
+                "nome" : "Rita de Cássia Costa Minervino",
+                "telefone": "(61) 2028-4610",
+                "email": "ouvidoria@codevasf.gov.br",
+            }
+        ]
       }
     ],
     "personograma": [ {
